@@ -1,0 +1,71 @@
+{
+  "killer": "Larry",
+  "weapon": "Kitchen knife",
+  "motive": "Financial gain from the cabin's sale and inheritance issues",
+  "evidence": [
+    "The antler trophy wiped clean of fingerprints suggests premeditation and an attempt to hide evidence.",
+    "Marcus's last text at 10:28pm indicates a confrontation over ownership of the cabin, which could have triggered Larry's actions.",
+    "Larry's damp hiking boots with fresh mud contradict his claim of staying inside, suggesting he was outside during the murder.",
+    "The unlocked back door implies someone entered or exited without being noticed, likely Larry after the murder.",
+    "The inside-out rubber glove found in the mudroom indicates a hasty cleanup attempt, possibly by Larry after the incident.",
+    "Sofia's camera timestamps show she was outside, potentially capturing evidence of Larry's movements around the time of the murder."
+  ],
+  "transcript": [
+    {
+      "action": "search",
+      "detail": "Searched Living Room"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Kitchen"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Mudroom / Back Entry"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Upstairs Hallway"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Marcus's Bedroom"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Back Porch"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What was the nature of your conversation with Marcus that night?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Why do your hiking boots have fresh mud on them if you claim you didn't go outsi"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Did you hear anything unusual around 11pm when Diana's door was heard opening an"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What can you tell me about the photos taken by your camera between 9:04pm and 11"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was focused on capturing the snowfall, so I took a series of long-exposure shots during that time."
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: We had a rather heated discussion about the cabin. I was upset to discover he was planning to sell i"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, those boots? I must have stepped in some mud earlier in the day when I was out for a walk. Y"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I didn't hear anything unusual around that time, but I was focused on my call with my wife. I did no"
+    }
+  ]
+}
