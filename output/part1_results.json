@@ -1,19 +1,20 @@
 {
   "killer": "Larry",
   "weapon": "Kitchen knife",
-  "motive": "Financial gain from the cabin's sale and inheritance issues",
+  "motive": "Jealousy over Marcus's discovery of the treasure and the grandfather's map.",
   "evidence": [
     "The antler trophy wiped clean of fingerprints suggests premeditation and an attempt to hide evidence.",
-    "Marcus's last text at 10:28pm indicates a confrontation over ownership of the cabin, which could have triggered Larry's actions.",
-    "Larry's damp hiking boots with fresh mud contradict his claim of staying inside, suggesting he was outside during the murder.",
-    "The unlocked back door implies someone entered or exited without being noticed, likely Larry after the murder.",
-    "The inside-out rubber glove found in the mudroom indicates a hasty cleanup attempt, possibly by Larry after the incident.",
-    "Sofia's camera timestamps show she was outside, potentially capturing evidence of Larry's movements around the time of the murder."
+    "Marcus's last text at 10:28pm indicates a confrontation over ownership of the treasure, implying a motive for Larry.",
+    "Diana's lipstick on a coffee mug contradicts her claim of not having coffee with Marcus, suggesting she was present during a critical moment.",
+    "Larry's damp hiking boots with fresh mud indicate he was outside after dinner, contradicting his alibi.",
+    "The inside-out rubber glove found in the mudroom suggests someone was trying to clean up after a struggle or alter the scene.",
+    "The unlocked back door raises suspicion about how someone could have entered or exited without being noticed.",
+    "The journal entry about the $200K in old coins reveals Larry's motive to confront Marcus over the treasure, leading to a potential struggle."
   ],
   "transcript": [
     {
       "action": "search",
-      "detail": "Searched Living Room"
+      "detail": "Searched Back Porch"
     },
     {
       "action": "search",
@@ -33,11 +34,11 @@
     },
     {
       "action": "search",
-      "detail": "Searched Back Porch"
+      "detail": "Searched Living Room"
     },
     {
       "action": "interrogate",
-      "detail": "Asked Diana Blackwood: What was the nature of your conversation with Marcus that night?"
+      "detail": "Asked Diana Blackwood: What did you and Marcus discuss over coffee that night?"
     },
     {
       "action": "interrogate",
@@ -45,27 +46,27 @@
     },
     {
       "action": "interrogate",
-      "detail": "Asked Tom Chen: Did you hear anything unusual around 11pm when Diana's door was heard opening an"
+      "detail": "Asked Tom Chen: Did you hear anything unusual around 11pm, besides the door opening and closing?"
     },
     {
       "action": "interrogate",
-      "detail": "Asked Sofia Reyes: What can you tell me about the photos taken by your camera between 9:04pm and 11"
+      "detail": "Asked Sofia Reyes: What were you photographing with your camera that night?"
     },
     {
       "action": "response",
-      "detail": "Sofia Reyes: I was focused on capturing the snowfall, so I took a series of long-exposure shots during that time."
+      "detail": "Sofia Reyes: I was taking long-exposure photos of the snowfall. The way the light reflects off the snow can creat"
     },
     {
       "action": "response",
-      "detail": "Diana Blackwood: We had a rather heated discussion about the cabin. I was upset to discover he was planning to sell i"
+      "detail": "Tom Chen: I didn't hear anything particularly unusual around 11pm, but I did notice Larry looking quite pale a"
     },
     {
       "action": "response",
-      "detail": "Larry Hoffman: Oh, uh, those boots? I must have stepped in some mud earlier in the day when I was out for a walk. Y"
+      "detail": "Diana Blackwood: We didn't have coffee that night. I was busy reading in my room, as I mentioned. If you\u2019re looking f"
     },
     {
       "action": "response",
-      "detail": "Tom Chen: I didn't hear anything unusual around that time, but I was focused on my call with my wife. I did no"
+      "detail": "Larry Hoffman: Oh, uh, those boots? I must have stepped in some mud earlier in the day while I was out for a walk. "
     }
   ]
 }
